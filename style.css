@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#heading {
+    position: absolute;
+    width: 1167px;
+    height: 41px;
+    left: 41px;
+    top: 33px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 41px;
+
+    color: #000000;
+
+}
+
+#inputBox {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1300px;
+    height: 60px;
+    left: 41px;
+    top: 100px;
+    color: black;
+    border: 3px solid #000000;
+    border-radius: 10px;
+}
+
+#lookUp {
+    position: absolute;
+    width: 303px;
+    height: 67px;
+    left: 41px;
+    top: 211px;
+    color: white;
+    background: #000000;
+    border-radius: 10px;
+}
